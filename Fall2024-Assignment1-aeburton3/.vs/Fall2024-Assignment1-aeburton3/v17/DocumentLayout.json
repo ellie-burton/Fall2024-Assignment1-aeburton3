@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ekate\\Documents\\GitHub\\Fall2024-Assignment1-aeburton3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{156FD0E2-77E9-4992-9861-C492B85B53B3}|Fall2024-Assignment1-aeburton3.csproj|c:\\users\\ekate\\documents\\github\\fall2024-assignment1-aeburton3\\wwwroot\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{156FD0E2-77E9-4992-9861-C492B85B53B3}|Fall2024-Assignment1-aeburton3.csproj|solutionrelative:wwwroot\\script.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156FD0E2-77E9-4992-9861-C492B85B53B3}|Fall2024-Assignment1-aeburton3.csproj|c:\\users\\ekate\\documents\\github\\fall2024-assignment1-aeburton3\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{156FD0E2-77E9-4992-9861-C492B85B53B3}|Fall2024-Assignment1-aeburton3.csproj|solutionrelative:wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156FD0E2-77E9-4992-9861-C492B85B53B3}|Fall2024-Assignment1-aeburton3.csproj|c:\\users\\ekate\\documents\\github\\fall2024-assignment1-aeburton3\\wwwroot\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{156FD0E2-77E9-4992-9861-C492B85B53B3}|Fall2024-Assignment1-aeburton3.csproj|solutionrelative:wwwroot\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156FD0E2-77E9-4992-9861-C492B85B53B3}|Fall2024-Assignment1-aeburton3.csproj|c:\\users\\ekate\\documents\\github\\fall2024-assignment1-aeburton3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{156FD0E2-77E9-4992-9861-C492B85B53B3}|Fall2024-Assignment1-aeburton3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "script.js",
+              "DocumentMoniker": "C:\\Users\\ekate\\Documents\\GitHub\\Fall2024-Assignment1-aeburton3\\wwwroot\\script.js",
+              "RelativeDocumentMoniker": "wwwroot\\script.js",
+              "ToolTip": "C:\\Users\\ekate\\Documents\\GitHub\\Fall2024-Assignment1-aeburton3\\wwwroot\\script.js",
+              "RelativeToolTip": "wwwroot\\script.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-09T20:09:08.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "styles.css",
+              "DocumentMoniker": "C:\\Users\\ekate\\Documents\\GitHub\\Fall2024-Assignment1-aeburton3\\wwwroot\\styles.css",
+              "RelativeDocumentMoniker": "wwwroot\\styles.css",
+              "ToolTip": "C:\\Users\\ekate\\Documents\\GitHub\\Fall2024-Assignment1-aeburton3\\wwwroot\\styles.css",
+              "RelativeToolTip": "wwwroot\\styles.css",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAFEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-09T20:04:49.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\ekate\\Documents\\GitHub\\Fall2024-Assignment1-aeburton3\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\ekate\\Documents\\GitHub\\Fall2024-Assignment1-aeburton3\\wwwroot\\index.html",
+              "RelativeToolTip": "wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-09T19:59:25.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ekate\\Documents\\GitHub\\Fall2024-Assignment1-aeburton3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ekate\\Documents\\GitHub\\Fall2024-Assignment1-aeburton3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-09T19:57:56.082Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
